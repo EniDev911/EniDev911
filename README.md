@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @EniDev911
+- 👋 Hi, I’m Marco
+- twitter:  @MarcoContreraas
+- email: enidev911@gmail.com
 - 📨 enidev911@gmail.com
 - 🌆 from Chile 🇨🇱
+
 
 
 <!---
