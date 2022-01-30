@@ -1,5 +1,7 @@
 <img src="https://media.giphy.com/media/O4JSj1pDBk9B3c8k75/giphy.gif" width="850" height="360"/>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enidev911)](https://github.com/anuraghazra/github-readme-stats)
+
 - 👋 Hi, I’m Marco
 - twitter:  @MarcoContreraas
 - email: enidev911@gmail.com
