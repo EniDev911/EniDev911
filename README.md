@@ -1,5 +1,4 @@
-<iframe src="https://giphy.com/embed/5Envr3L6ee5qqVC05K" width="480" height="215" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/5Envr3L6ee5qqVC05K">via GIPHY</a></p>
-
+![my_avatar](https://media.giphy.com/media/5Envr3L6ee5qqVC05K/giphy.gif)
 
 - 👋 Hi, I’m Marco
 - twitter:  @MarcoContreraas
