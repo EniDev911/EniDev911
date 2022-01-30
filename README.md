@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/5Envr3L6ee5qqVC05K/giphy.gif" width="900" height="400"/>
+<img src="https://media.giphy.com/media/5Envr3L6ee5qqVC05K/giphy.gif" width="1000" height="400"/>
 
 - 👋 Hi, I’m Marco
 - twitter:  @MarcoContreraas
