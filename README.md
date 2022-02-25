@@ -15,8 +15,6 @@
 
 
 [twitter]: https://twitter.com/MarcoContreraas
-[website]: https://www.python-engineer.com/
-[devto]: https://dev.to/python_engineer
 [facebook]: https://www.facebook.com/profile.php?id=100009064421475
 
 <br />
