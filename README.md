@@ -9,9 +9,9 @@
 ---
 ## My GitHub Stats 💻
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enidev911&theme=darcula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enidev911&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=enidev911&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=enidev911&theme=darcula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [twitter]: https://twitter.com/MarcoContreraas
@@ -22,17 +22,6 @@
 <br />
 
 ---
-## Support Me!
-You can show support by starring my repos, liking and sharing my videos, and [subscribing](https://www.youtube.com/channel/UCbXgNpp0jedKWcQiULLbDTA?sub_confirmation=1) to my channel.
-
-If you really, really, really enjoy my work, you can also support me on [Patreon](https://www.patreon.com/patrickloeber).
-
-Thank you all so much 🙏
-
-
-
-
-
 
 
 
@@ -41,6 +30,4 @@ Thank you all so much 🙏
 EniDev911/EniDev911 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-&#x1F4DD;
 
