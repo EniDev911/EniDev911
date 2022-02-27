@@ -10,8 +10,8 @@
 ## My GitHub Stats 💻
 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enidev911&theme=darcula"  width="200" height="300"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=enidev911&theme=darcula&show_icons=true" width="350" height="300" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enidev911&theme=darcula"  height="250"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=enidev911&theme=darcula&show_icons=true" height="250" />
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enidev911&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
