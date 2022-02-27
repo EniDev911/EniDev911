@@ -4,7 +4,7 @@
 
 ---
 
-<img src="https://media.giphy.com/media/XEu3ojespKfnlccnhO/giphy.gif" width="1100"/>
+<img src="https://media.giphy.com/media/fHtH9kGwNYPVzZp3pN/giphy.gif" width="1100"/>
 
 ---
 ## My GitHub Stats 💻
