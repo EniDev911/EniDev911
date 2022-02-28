@@ -1,6 +1,4 @@
 # Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Marco
-[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
-[<img height="30" src = "https://img.shields.io/badge/facebook-%233b5998.svg?&style=for-the-badge&logo=Facebook&logoColor=white">][facebook] 
 <img height="30" src = "https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white"/>
 
 ---
@@ -15,7 +13,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=enidev911&theme=darcula&show_icons=true" height="220"/>
 </p>
 
+---
 
+## Social Media 
+
+[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+[<img height="30" src = "https://img.shields.io/badge/facebook-%233b5998.svg?&style=for-the-badge&logo=Facebook&logoColor=white">][facebook] 
 [twitter]: https://twitter.com/MarcoContreraas
 [facebook]: https://www.facebook.com/profile.php?id=100009064421475
 
