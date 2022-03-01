@@ -21,19 +21,22 @@
 [<img height="30" src = "https://img.shields.io/badge/facebook-%233b5998.svg?&style=for-the-badge&logo=Facebook&logoColor=white">][facebook]
 
 
-[twitter]: https://twitter.com/MarcoContreraas
-[facebook]: https://www.facebook.com/profile.php?id=100009064421475
 
 
 <br />
 
 ---
 
-MY SIGN :scorpius:
+## Skills 
+
+[<img height="30" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />][hackerrank]
 
 
-<!---
-EniDev911/EniDev911 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+## MY SIGN :scorpius:
+
+
+[twitter]: https://twitter.com/MarcoContreraas
+[facebook]: https://www.facebook.com/profile.php?id=100009064421475
+[hackerrank]: https://www.hackerrank.com/enidev911
 
