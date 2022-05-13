@@ -10,7 +10,7 @@
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enidev911&theme=darcula"  height="220"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=enidev911&theme=darcula&show_icons=true" height="220" width="350"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=enidev911&theme=darcula&show_icons=true" height="220" width="400"/>
 </p>
 
 ---
