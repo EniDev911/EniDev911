@@ -7,9 +7,10 @@
 
 ---
 ## My GitHub Stats 💻
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enidev911&theme=darcula"  height="220"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=enidev911&theme=darcula&show_icons=true" height="220" align="right"/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enidev911&theme=darcula"  height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=enidev911&theme=darcula&show_icons=true" height="200"/>
 </p>
 
 ---
