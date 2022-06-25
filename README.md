@@ -15,6 +15,8 @@
 
 [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=enidev911&margin-w=10&row=1&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![Contributors over time](https://contributor-graph-api.apiseven.com/contributors-svg?chart=contributorOverTime&repo=enidev911/badges)](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=enidev911/badges)
+
 ---
 
 ## Social Media 
