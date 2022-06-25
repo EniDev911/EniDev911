@@ -13,9 +13,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=enidev911&theme=darcula&show_icons=true" height="200"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=enidev911&margin-w=10&row=1&theme=dracula" height="500" align="center"/>
-</p>
+[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=enidev911&margin-w=10&row=1&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
