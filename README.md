@@ -11,7 +11,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enidev911&theme=darcula"  height="200"/>
   <img src="https://github-readme-stats.vercel.app/api?username=enidev911&theme=darcula&show_icons=true" height="200"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=enidev911&margin-w=10&row=1&theme=dracula" height="300"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=enidev911&margin-w=10&row=1&theme=dracula" height="400" align="center"/>
 </p>
 
 ---
