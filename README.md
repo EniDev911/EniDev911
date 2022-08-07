@@ -3,7 +3,7 @@
 
 ---
 
-<img src="https://media.giphy.com/media/fHtH9kGwNYPVzZp3pN/giphy.gif"/>
+<img src="https://media.giphy.com/media/fHtH9kGwNYPVzZp3pN/giphy.gif"/ style="width:100%">
 
 ---
 ## My GitHub Stats 💻
