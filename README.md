@@ -3,7 +3,7 @@
 
 ---
 
-<img src="https://media.giphy.com/media/fHtH9kGwNYPVzZp3pN/giphy.gif" style="width:100%" />
+![gif](https://media.giphy.com/media/fHtH9kGwNYPVzZp3pN/giphy.gif)
 
 ---
 ## My GitHub Stats 💻
@@ -17,17 +17,6 @@
 
 [![Contributors over time](https://contributor-graph-api.apiseven.com/contributors-svg?chart=contributorOverTime&repo=enidev911/badges)](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=enidev911/badges)
 
----
-
-## Social Media 
-
-[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
-[<img height="30" src = "https://img.shields.io/badge/facebook-%233b5998.svg?&style=for-the-badge&logo=Facebook&logoColor=white">][facebook]
-
-
-
-
-<br />
 
 ---
 
@@ -46,7 +35,5 @@
 ```
 
 
-[twitter]: https://twitter.com/MarcoContreraas
-[facebook]: https://www.facebook.com/profile.php?id=100009064421475
 [hackerrank]: https://www.hackerrank.com/enidev911
 
