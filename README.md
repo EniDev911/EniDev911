@@ -2,10 +2,6 @@
 
 
 ---
-
-![gif](https://media.giphy.com/media/fHtH9kGwNYPVzZp3pN/giphy.gif)
-
----
 ## My GitHub Stats 💻
 
 <p align="left">
